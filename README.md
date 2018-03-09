@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 # Chat bot
 An AI-based chatbot
 
