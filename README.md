@@ -1,4 +1,4 @@
-# Chat-bot
+# Chat bot
 An AI-based chatbot
 
 ## Getting Started
@@ -8,8 +8,6 @@ This repository may be used for your own robot.
 
 
 ### Installing
-Clone/fork this repository and save it. Then use ``./bash-install.sh`` to install to your system (Bash).
-``~/bin/fetch-bot-x.x.x.jar`` is the compiled JAR.
 
 
 ## Deployment
